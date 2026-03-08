@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I’m a passionate Back-End Developer with solid experience in C#, ASP.NET Core, and database management. <br>I recently completed the ASP.NET Core Back-End Development Diploma at Route Academy, where I gained hands-on experience in building web applications using MVC, Web API, and Entity Framework Core. <br><br>In addition to backend development, I enjoy solving algorithmic and logical problems, which has sharpened my **problem-solving skills** and helped me write clean, efficient, and optimized code. <br><br>I’m eager to keep learning and growing as a .NET Web Developer while building reliable and scalable applications.
+I’m a passionate Back-End Developer with solid experience in C#, ASP.NET Core, and database management. <br>I recently completed the ASP.NET Core Back-End Development Diploma , where I gained hands-on experience in building web applications using MVC, Web API, and Entity Framework Core. <br><br>In addition to backend development, I enjoy solving algorithmic and logical problems, which has sharpened my **problem-solving skills** and helped me write clean, efficient, and optimized code. <br><br>I’m eager to keep learning and growing as a .NET Web Developer while building reliable and scalable applications.
 
 
 ## 🌐 Socials:
